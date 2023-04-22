@@ -1,8 +1,6 @@
 # travelens (Travels Through A Lens)
 
-[Chris Tham](https://christham.net)'s travelogue web site. This site
-documents all the trips we have taken over the years, to various
-countries.
+[Chris Tham](https://christham.net)'s travelogue web site. This [site](https://travelens.github.io) documents all the trips we have taken over the years, to various countries.
 
 This site is currently under construction, as we load trips from the most recent all the way back to our first trip in the 1980s.
 
@@ -14,6 +12,6 @@ I have decided to make all the content of this site, including photos, open sour
 
 The website is written using [Astro](https://astro.build) and deployed as a static set of HTML5/CSS3/Javascript pages.
 
-There is a master repository [travelens.github.io](https://github.com/travelens/travelens.github.io) that contains the high level pages. The master site is also responsible for hosting all the metadata required for site-wide client-side search (using lunr.js), a sitemap and RSS feed. Each trip is stored as a separate repository under the travelens organisation. An npm package [astro-travelens](https://www.npmjs.com/package/astro-travelens) contains common Astro components shared by the master site and all the trip repositories. All repositories are public - if you wish to use any content from these repositories please honour the conditions of the MIT licence.
+There is a master site repository [travelens.github.io](https://github.com/travelens/travelens.github.io) that contains the high level pages. The master site is also responsible for hosting all the metadata required for site-wide client-side search (using lunr.js), a sitemap and RSS feed. Each trip is stored as a separate repository under the travelens organisation and served separately in Github Pages. An npm package [astro-travelens](https://www.npmjs.com/package/astro-travelens) contains common Astro components shared by the master site and all the trip repositories. All repositories are public - if you wish to use any content from these repositories please honour the conditions of the MIT Licence.
 
-Please join me in exploring the trips we have taken.
+Please join me in [exploring the trips we have taken](https://travelens.github.io).
