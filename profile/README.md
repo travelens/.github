@@ -16,4 +16,5 @@ There is a master site repository [travelens.github.io](https://github.com/trave
 
 Please join me in [exploring the trips we have taken](https://travelens.github.io).
 
-![deploy](https://github.com/travelens/travelens.github.io/actions/workflows/deploy.yml/badge.svg)
+[travelens.github.io](https://travelens.github.io) ![deploy](https://github.com/travelens/travelens.github.io/actions/workflows/deploy.yml/badge.svg)
+[Tasmania 2023](https://travelens.github.io/tasmania-2023) ![deploy](https://github.com/travelens/tasmania-2023/actions/workflows/deploy.yml/badge.svg)
