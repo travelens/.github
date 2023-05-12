@@ -16,5 +16,14 @@ There is a master site repository [travelens.github.io](https://github.com/trave
 
 Please join me in [exploring the trips we have taken](https://travelens.github.io).
 
-[travelens.github.io](https://travelens.github.io) ![deploy](https://github.com/travelens/travelens.github.io/actions/workflows/deploy.yml/badge.svg)
-[Tasmania 2023](https://travelens.github.io/tasmania-2023) ![deploy](https://github.com/travelens/tasmania-2023/actions/workflows/deploy.yml/badge.svg)
+- [travelens.github.io](https://travelens.github.io) ![deploy](https://github.com/travelens/travelens.github.io/actions/workflows/deploy.yml/badge.svg)
+- [Tasmania 2023](https://travelens.github.io/tasmania-2023) ![deploy](https://github.com/travelens/tasmania-2023/actions/workflows/deploy.yml/badge.svg)
+- [Muswellbrook 2022](https://travelens.github.io/muswellbrook-2022) ![deploy](https://github.com/travelens/muswellbrook-2022/actions/workflows/deploy.yml/badge.svg)
+- [Hunter Valley 2022](https://travelens.github.io/hunter-valley-2022) ![deploy](https://github.com/travelens/hunter-valley-2022/actions/workflows/deploy.yml/badge.svg)
+- [Cowra 2022](https://travelens.github.io/cowra-2022) ![deploy](https://github.com/travelens/cowra-2022/actions/workflows/deploy.yml/badge.svg)
+- [YuleFest 2022](https://travelens.github.io/yulefest-2022) ![deploy](https://github.com/travelens/yulefest-2022/actions/workflows/deploy.yml/badge.svg)
+- [Armidale 2022](https://travelens.github.io/armidale-2022) ![deploy](https://github.com/travelens/armidale-2022/actions/workflows/deploy.yml/badge.svg)
+- [Tasmania 2018](https://travelens.github.io/tasmania-2018) ![deploy](https://github.com/travelens/tasmania-2018/actions/workflows/deploy.yml/badge.svg)
+- [Japan 2018](https://travelens.github.io/japan-2018) ![deploy](https://github.com/travelens/japan-2018/actions/workflows/deploy.yml/badge.svg)
+- [Singapore 2017](https://travelens.github.io/singapore-2017) ![deploy](https://github.com/travelens/singapore-2017/actions/workflows/deploy.yml/badge.svg)
+- [Japan 2017](https://travelens.github.io/japan-2017) ![deploy](https://github.com/travelens/japan-2017/actions/workflows/deploy.yml/badge.svg)
