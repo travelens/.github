@@ -15,3 +15,5 @@ The website is written using [Astro](https://astro.build) and deployed as a stat
 There is a master site repository [travelens.github.io](https://github.com/travelens/travelens.github.io) that contains the high level pages. The master site is also responsible for hosting all the metadata required for site-wide client-side search (using lunr.js), a sitemap and RSS feed. Each trip is stored as a separate repository under the travelens organisation and served separately in Github Pages. An npm package [astro-travelens](https://www.npmjs.com/package/astro-travelens) contains common Astro components shared by the master site and all the trip repositories. All repositories are public - if you wish to use any content from these repositories please honour the conditions of the MIT Licence.
 
 Please join me in [exploring the trips we have taken](https://travelens.github.io).
+
+![deploy](https://github.com/travelens/travelens.github.io/actions/workflows/deploy.yml/badge.svg)
